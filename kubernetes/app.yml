@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: vproapp-deployment
+  name: matankaufman/vprofiledb
   labels:
     app: vproapp
 spec:
